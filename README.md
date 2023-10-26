@@ -54,8 +54,6 @@ This project follows a 3-tier architecture for modularity and separation of conc
 
 The following diagram illustrates the relationships between these three tiers:
 
-![Architecture Diagram](docs/architecture.png)
-
 This architecture ensures that the project is well-organized and scalable. Each tier can be developed, tested, and scaled independently.
 
 ## License
